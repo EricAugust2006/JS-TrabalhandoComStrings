@@ -48,6 +48,7 @@ body{
     }
 }
 .ContainerTitle {
+    max-width: 100%;
     color: whitesmoke;    
     display: flex;
     justify-content: center;
